@@ -1,0 +1,23 @@
+{
+  "name": "smsbip",
+  "version": "0.0.1",
+  "description": "Infobip SMS API wrapper for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubunteroz/smsbip.git"
+  },
+  "keywords": [
+    "infobip",
+    "sms"
+  ],
+  "author": "Surya Handika Putratama <ubunteroz@gmail.com>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ubunteroz/smsbip/issues"
+  },
+  "homepage": "https://github.com/ubunteroz/smsbip#readme"
+}
