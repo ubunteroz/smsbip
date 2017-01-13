@@ -1,6 +1,6 @@
 {
   "name": "smsbip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Infobip SMS API wrapper for NodeJS",
   "main": "index.js",
   "scripts": {
