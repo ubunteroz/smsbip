@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/ubunteroz/smsbip/issues"
   },
-  "homepage": "https://github.com/ubunteroz/smsbip#readme"
+  "homepage": "https://github.com/ubunteroz/smsbip#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "request": "^2.79.0",
+    "underscore": "^1.8.3"
+  }
 }
